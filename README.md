@@ -12,5 +12,3 @@ This page is open to any user(s). For potential clients of Horiseon who wish to 
 ## Credits 
 Roqieux - Julien Larroque 
 
-## License 
-please refer to the LICENSE in the repo
